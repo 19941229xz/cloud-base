@@ -1,0 +1,39 @@
+#server:
+#  port: 9091 #用户微服务端口
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    serviceUrl: #注册中心的注册地址
+      defaultZone: http://127.0.0.1:9080/eureka/,http://127.0.0.1:8090/eureka/
+spring:
+  rabbitmq:
+    host: 47.102.111.104
+    port: 5672
+    username: admin
+    password: admin
+  application:
+    name: user-service  #微服务名称
+  cloud:
+    stream:
+      bindings:
+        output:
+          destination: trade
+          contentType: 'application/json'
+    config:
+#      uri: http://localhost:7001/
+      discovery:
+        enabled: true
+        service-id: CONFIG-SERVER
+      profile: test
+feign:
+  hystrix:
+    enabled: true  # 开启服务降级功能  必须开启否则会报错而且调用不了降级方法
+management:
+  endpoint:
+    env:
+      enabled: true
+    web:
+      exposure:
+        include: '*'
+

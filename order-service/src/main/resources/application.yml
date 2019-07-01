@@ -1,0 +1,24 @@
+server:
+  port: 8092
+eureka:
+  client:
+    serviceUrl: #注册中心的注册地址  一定要指向我们的eureka-server服务
+      defaultZone: http://127.0.0.1:9080/eureka/,http://127.0.0.1:8090/eureka/
+spring:
+  rabbitmq:
+    host: 47.102.111.104
+    port: 5672
+    username: admin
+    password: admin
+  application:
+    name: order-service  # 微服务的名称  会在eurake服务注册中心显示
+  cloud:
+    stream:
+      bindings:
+        input:
+          destination: trade
+          contentType: 'application/json'
+          group: study-group
+        output:
+          destination: trade
+          contentType: 'application/json'

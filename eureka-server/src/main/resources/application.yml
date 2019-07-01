@@ -1,0 +1,9 @@
+#server:
+#  port: 8090 #自己的端口号
+
+eureka:
+  client:
+    serviceUrl: #注册中心的注册地址  一定要指向我们的eureka-server服务
+      defaultZone: http://127.0.0.1:8090/eureka/
+  instance:
+    hostname: 127.0.0.1 #服务注册中心IP地址
