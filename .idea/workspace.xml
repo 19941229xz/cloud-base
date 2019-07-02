@@ -2,76 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="64a13884-ab5d-4f64-b1d7-b1d5df3c6e60" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/java/wuhan/vp/configserver/ConfigServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-server/src/test/java/wuhan/vp/configserver/ConfigServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/java/wuhan/vp/eurekaserver/EurekaServerApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/eureka-server/src/test/java/wuhan/vp/eurekaserver/EurekaServerApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/wuhan/cp/gateway/GatewayApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/gateway/src/test/java/wuhan/cp/gateway/GatewayApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/Message/Sink.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/Message/SinkReceiver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/Message/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/Message/SourceSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/OrderServiceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order-service/src/test/java/wuhan/vp/orderservice/OrderServiceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/wuhan/vp/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/wuhan/vp/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/dao/OrderDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/dao/OrderDaoFallback.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/message/Source.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/message/SourceSender.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/userservice/src/test/java/wuhan/vp/userservice/UserserviceApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vpshop.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/controller/UserController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/dao/UserDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/druid/DruidStatViewServlet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/HttpResp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/util/JwtUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/userservice/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -97,10 +39,54 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-195">
+              <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1510#1511#0" expanded="true" />
+                <element signature="e#1583#1584#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="56">
+              <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/druid/DruidStatViewServlet.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/controller/UserController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="224">
+              <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/OrderServiceApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
+            <state relative-caret-position="212">
+              <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#844#845#0" expanded="true" />
@@ -111,96 +97,54 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order-service/src/test/java/wuhan/vp/orderservice/OrderServiceApplicationTests.java">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/HttpResp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+            <state relative-caret-position="-336" />
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/util/JwtUtil.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/message/Source.java">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/dao/UserDao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="112">
-              <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/message/SourceSender.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="131">
-              <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="65" column="25" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="25" />
+            <state relative-caret-position="196">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1510#1511#0" expanded="true" />
-                <element signature="e#1583#1584#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/wuhan/vp/eurekaserver/EurekaServerApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="224">
-              <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserServiceImpl.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="168">
-              <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/Message/SinkReceiver.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="26" />
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#403#404#0" expanded="true" />
-                <element signature="e#445#446#0" expanded="true" />
+                <element signature="e#199#200#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#307#308#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/Message/SourceSender.java">
+        <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/User.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="282">
-              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#683#684#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="280">
+              <caret line="12" column="27" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="27" />
             </state>
           </provider>
         </entry>
@@ -256,8 +200,16 @@
         <option value="$PROJECT_DIR$/gateway/pom.xml" />
         <option value="$PROJECT_DIR$/gateway/src/main/java/wuhan/cp/gateway/GatewayApplication.java" />
         <option value="$PROJECT_DIR$/order-service/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java" />
         <option value="$PROJECT_DIR$/userservice/pom.xml" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/User.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserService.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/dao/UserDao.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/druid/DruidStatViewServlet.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/util/JwtUtil.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/HttpResp.java" />
+        <option value="$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/controller/UserController.java" />
         <option value="$PROJECT_DIR$/userservice/src/main/resources/application.yml" />
       </list>
     </option>
@@ -282,7 +234,9 @@
     <option name="width" value="2365" />
     <option name="height" value="1200" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -300,73 +254,25 @@
             <path>
               <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="eurekaserver" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="eureka-server" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
               <item name="order-service" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
-              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
@@ -374,10 +280,15 @@
             <path>
               <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
               <item name="vpshop" type="462c0819:PsiDirectoryNode" />
-              <item name="userservice" type="462c0819:PsiDirectoryNode" />
+              <item name="order-service" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="orderservice" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -385,10 +296,13 @@
               <item name="vpshop" type="462c0819:PsiDirectoryNode" />
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
+              <item name="vpshop" type="462c0819:PsiDirectoryNode" />
               <item name="userservice" type="462c0819:PsiDirectoryNode" />
-              <item name="message" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="vpshop" type="b2602c69:ProjectViewProjectNode" />
@@ -413,7 +327,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../SpringBootFirstDemo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -425,6 +339,11 @@
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="wuhan.vp.userservice.dao" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="wuhan.vp.userservice.model" />
+      <recent name="wuhan.vp.userservice.util" />
+      <recent name="wuhan.vp.userservice.druid" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\1\IdeaProjects\vpshop\userservice\src\main\java\wuhan\vp\userservice\message" />
@@ -451,7 +370,7 @@
     </option>
     <option name="contentProportion" value="0.23838797" />
   </component>
-  <component name="RunManager" selected="Spring Boot.OrderServiceApplication3">
+  <component name="RunManager" selected="Spring Boot.UserserviceApplication 2">
     <configuration name="OrderServiceApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="order-service" />
       <extension name="coverage">
@@ -557,6 +476,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="UserserviceApplication 2" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="userservice" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="wuhan.vp.userservice.UserserviceApplication" />
+      <option name="VM_PARAMETERS" value="-Dserver.port=8081" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="UserserviceApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="userservice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="wuhan.vp.userservice.UserserviceApplication" />
@@ -567,6 +495,7 @@
     <list>
       <item itemvalue="JUnit.OrderServiceApplicationTests.contextLoads" />
       <item itemvalue="Spring Boot.UserserviceApplication" />
+      <item itemvalue="Spring Boot.UserserviceApplication 2" />
       <item itemvalue="Spring Boot.EurekaServerApplication" />
       <item itemvalue="Spring Boot.EurekaServerApplication 2" />
       <item itemvalue="Spring Boot.OrderServiceApplication 2" />
@@ -593,8 +522,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1561346260193</updated>
-      <workItem from="1561346264391" duration="67887000" />
+      <workItem from="1561346264391" duration="74158000" />
     </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1561970694522</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1561970694522</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -603,7 +540,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="67887000" />
+    <option name="totallyTimeSpent" value="74158000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -623,7 +560,7 @@
       <window_info id="Favorites" order="3" sideWeight="0.5010526" side_tool="true" weight="0.25" />
       <window_info id="Web" order="4" sideWeight="0.5021097" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="5" />
-      <window_info active="true" content_ui="combo" id="Project" order="6" sideWeight="0.49894738" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="6" sideWeight="0.49894738" visible="true" weight="0.25" />
       <window_info id="Structure" order="7" sideWeight="0.5010526" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Spring" order="0" weight="0.3286119" />
       <window_info anchor="bottom" id="Terminal" order="1" weight="0.3286119" />
@@ -640,7 +577,7 @@
       <window_info anchor="bottom" id="Cvs" order="12" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="13" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="14" weight="0.3286119" />
-      <window_info anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.32719547" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="15" visible="true" weight="0.32719547" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Database" order="2" />
@@ -655,6 +592,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/orderservice/src/main/resources/application.yml">
@@ -795,13 +736,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="728">
-          <caret line="44" column="22" selection-start-line="44" selection-start-column="22" selection-end-line="44" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/gateway/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="56">
@@ -883,18 +817,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/OrderServiceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="19" column="42" lean-forward="true" selection-start-line="19" selection-start-column="42" selection-end-line="19" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#844#845#0" expanded="true" />
-            <element signature="e#918#919#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/order-service/src/test/java/wuhan/vp/orderservice/OrderServiceApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -916,18 +838,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="65" column="25" selection-start-line="65" selection-start-column="21" selection-end-line="65" selection-end-column="25" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1510#1511#0" expanded="true" />
-            <element signature="e#1583#1584#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/eureka-server/src/main/java/wuhan/vp/eurekaserver/EurekaServerApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="224">
@@ -938,14 +848,115 @@
     <entry file="file://$PROJECT_DIR$/eureka-server/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
-          <caret line="6" column="48" lean-forward="true" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+          <caret line="6" column="48" selection-start-line="6" selection-start-column="48" selection-end-line="6" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="166">
+          <caret line="141" column="8" selection-start-line="141" selection-start-column="8" selection-end-line="144" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#199#200#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#307#308#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/druid/DruidStatViewServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="28" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/UserserviceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-195">
+          <caret line="25" column="13" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1510#1511#0" expanded="true" />
+            <element signature="e#1583#1584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/util/JwtUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="142">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/dao/UserDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/model/HttpResp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/userservice/src/main/java/wuhan/vp/userservice/controller/UserController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="30" column="23" selection-start-line="30" selection-start-column="23" selection-end-line="30" selection-end-column="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service/src/main/java/wuhan/vp/orderservice/OrderServiceApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="16" column="4" selection-start-line="16" selection-start-column="4" selection-end-line="17" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#844#845#0" expanded="true" />
+            <element signature="e#918#919#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/userservice/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="9" column="11" lean-forward="true" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        <state relative-caret-position="56">
+          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
         </state>
       </provider>
     </entry>

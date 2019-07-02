@@ -22,7 +22,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 @RestController
-@SpringBootApplication(exclude = {DataSourceAutoConfiguration.class, DruidDataSourceAutoConfigure.class})
+@SpringBootApplication
 @EnableEurekaClient
 @EnableFeignClients
 public class UserserviceApplication {
