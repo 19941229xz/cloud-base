@@ -29,7 +29,7 @@ spring:
       max-open-prepared-statements: 50
       max-pool-prepared-statement-per-connection-size: 20
   rabbitmq:
-    host: 47.102.111.104
+    host: 60.205.212.112
     port: 5672
     username: admin
     password: admin

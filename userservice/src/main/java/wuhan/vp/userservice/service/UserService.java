@@ -3,7 +3,7 @@ package wuhan.vp.userservice.service;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import wuhan.vp.userservice.model.User;
+import wuhan.vp.common.model.User;
 
 public interface UserService {
 
@@ -12,4 +12,5 @@ public interface UserService {
     User userLogin(@RequestBody User user);
 
 
+    User getUserByUserId(int userId);
 }

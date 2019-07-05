@@ -1,4 +1,4 @@
-package wuhan.vp.userservice.dao;
+package wuhan.vp.userservice.feign;
 
 
 import org.springframework.cloud.openfeign.FeignClient;

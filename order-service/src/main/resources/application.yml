@@ -6,7 +6,7 @@ eureka:
       defaultZone: http://127.0.0.1:9080/eureka/,http://127.0.0.1:8090/eureka/
 spring:
   rabbitmq:
-    host: 47.102.111.104
+    host: 60.205.212.112
     port: 5672
     username: admin
     password: admin
